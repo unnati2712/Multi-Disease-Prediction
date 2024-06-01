@@ -1,18 +1,33 @@
-# mdps_kanisk
+
+# Multi-Disease-Prediction
+
+This project is a multi-disease prediction system built using Python libraries such as Pandas, NumPy, and scikit-learn. Its primary goal is to predict the likelihood of a customer having diabetes, heart disease, or Parkinson's disease based on various input features. By leveraging machine learning algorithms and medical data, the system provides valuable insights into potential health risks for individuals.
 
 
-install the below requirements in the terminal of your folder:
+## Installation
 
-1)python -m ensurepip --default-pip
+Clone the project
 
-2)pip install streamlit
+```bash
+ https://github.com/unnati2712/Multi-Disease-Prediction.git
+```
 
-3)pip install numpy
+- Open your terminal.
+- Navigate to your project folder.
+- Execute the following commands one by one:
 
-4)pip install streamlit-option-menu
+```bash
+python -m ensurepip --default-pip
+pip install streamlit
+pip install numpy
+pip install streamlit-option-menu
+pip install scikit-learn
+pip install pickle
+pip install pickle-mixin
 
-5)pip install scikit-learn
+```
+## Contributing
 
-6)pip install pickle
+Contributions are always welcome!
 
-7)pip install pickle-mixin 
+
