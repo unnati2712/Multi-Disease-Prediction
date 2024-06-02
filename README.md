@@ -17,13 +17,7 @@ Clone the project
 - Execute the following commands one by one:
 
 ```bash
-python -m ensurepip --default-pip
-pip install streamlit
-pip install numpy
-pip install streamlit-option-menu
-pip install scikit-learn
-pip install pickle
-pip install pickle-mixin
+python install requirements.txt
 
 ```
 ## Contributing
